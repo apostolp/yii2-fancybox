@@ -13,12 +13,12 @@
     "require": {
 		"php": ">=5.4.0",
 		"yiisoft/yii2": "*",
-        "newerton/jquery-mousewheel": "dev-master",
-        "newerton/fancy-box": "dev-master"
+        "apostolp/jquery-mousewheel": "dev-master",
+        "apostolp/fancy-box": "dev-master"
     },
     "autoload": {
         "psr-4": {
-            "newerton\\fancybox\\": ""
+            "apostolp\\fancybox\\": ""
         }
     }
 }
